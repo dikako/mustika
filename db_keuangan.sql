@@ -157,7 +157,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`username`, `password`, `nama_lengkap`, `email`, `no_telp`, `foto`, `level`, `blokir`, `id_session`) VALUES
 ('admin', 'd033e22ae348aeb5660fc2140aec35850c4da997', 'dika', 'dikakoko04@gmail.com', '085878992214', 'barcode.png', 'admin', 'N', 'q173s8hs1jl04st35169ccl8o7'),
-('mustika', '7a6ec39bf947a04652d55b4bac9d95576a962342', 'mustika', 'mus@gmail.com', '5465566767878798', 'favicon1.png', 'admin', 'N', 'd7dc668a7668dcbf38cc7a996d9165dc-20180508184655'),
+('mustika', '7a6ec39bf947a04652d55b4bac9d95576a962342', 'mustika', 'mustika@gmail.com', '5465566767878798', 'favicon1.png', 'admin', 'N', 'd7dc668a7668dcbf38cc7a996d9165dc-20180508184655'),
 ('tika', '4bb8d9b327f9061ad40433436d1a112c6870de96', 'tika', 'tika@gmail.com', '3455676774', '', 'user', 'Y', 'ec62af64271b44b8b72d71e3ffea2c9c-20180508192243');
 
 -- --------------------------------------------------------
